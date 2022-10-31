@@ -1,3 +1,1 @@
-
-
-Stars background: https://github.com/lstigale/starSky
+Stars background origin: https://github.com/lstigale/starSky
